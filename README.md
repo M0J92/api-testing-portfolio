@@ -1,4 +1,4 @@
-# API Testing Portfolio
+# API Automation Piece
 
 A comprehensive API testing project demonstrating automated testing skills using Python, Playwright, and pytest.
 
