@@ -44,7 +44,7 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Claude Code conversation history
+# Claude
 .claude/
 
 # Logs
